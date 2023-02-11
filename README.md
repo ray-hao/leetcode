@@ -1,1 +1,1 @@
-# Notes and solutions to leetcode problems
+# Notes and Solutions to Leetcode Problems
